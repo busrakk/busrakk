@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-<p align="left">
-    I'm Büşra.
-    I'm studying Computer Engineering.
-  <ul>
-      <li>🔭 I’m currently working on Karabük Teknokent.</li>
-      <li>🌱 I’m currently learning Django.</li></li>  
-   </ul>
-</p>
+### :woman_technologist: &nbsp;About Me :
+
+I'm Büşra
+I'm studying Computer Engineering.
+- 🔭 I working as an intern in Karabük Teknokent.
+- 🌱 I’m currently learning Django. 
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/busrakk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 
+- How to Reach Me [![Linkedin Badge](https://img.shields.io/badge/busrakk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/büşra-kartal-9987481b1/)
 
 
 ### 📌 GitHub Stats And Top Languages
@@ -49,12 +50,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Connect with me:
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/büşra-kartal-9987481b1#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/büşra-kartal-9987481b1#gh-dark-mode-only)
 
 
-### 📫 How to Reach Me
-[![Linkedin Badge](https://img.shields.io/badge/busrakk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/büşra-kartal-9987481b1/)
+
 
