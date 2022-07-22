@@ -14,7 +14,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 
 <!--
@@ -31,3 +31,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 📫 How to Reach Me
+[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%20b%C3%BC%C5%9Fra-kartal-9987481b1/)
+
