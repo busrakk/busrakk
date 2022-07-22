@@ -6,7 +6,7 @@ I'm Büşra
 I'm studying Computer Engineering.
 - 🔭 I working as an intern in Karabük Teknokent.
 - 🌱 I’m currently learning Django. 
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/busrakk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/büşra-kartal-9987481b1/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/busrakartal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/büşra-kartal-9987481b1/)
 
 
 ---
