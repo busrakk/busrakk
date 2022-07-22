@@ -13,8 +13,8 @@ I'm studying Computer Engineering.
 
 
 ### 📚 Languages and Tools:
-<code><img  title="Django" height="26" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
 <code><img  title="Python" height="26" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+<code><img  title="Django" height="26" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
 <code><img  title="HTML" height="26" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img  title="CSS3" height="26" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 <code><img  title="Bootstrap" height="26" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
