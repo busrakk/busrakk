@@ -49,6 +49,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Connect with me:
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+
 
 ### 📫 How to Reach Me
 [![Linkedin Badge](https://img.shields.io/badge/busrakk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/büşra-kartal-9987481b1/)
