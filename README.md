@@ -21,17 +21,17 @@
 
 
 ## 📚 Learning & Interested
-<code><img height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
-<code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Java"/></code>
-<code><img height="35" src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png" alt="Java"/></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Java"/></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png" alt="Java"/></code>
 
 
 <!--
