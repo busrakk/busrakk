@@ -8,14 +8,35 @@
 </p>
 
 
+<p align="left">
+    I'm Büşra.I'm studying Computer Engineering.
+    I am trying to improve myself in related to web projects.
+  <ul>
+      <li>🔭 I’m currently working on Karabük Teknokent
+      </li>
+      <li>🌱 I’m currently learning Django.</li>
+      <li>
+       <p>
+       <a href="https://www.linkedin.com/in/sedanurcevik/" target="_blank" rel="nofollow"><img alt="Sedanur's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" /></a>
+       </p>
+     </li>  
+   </ul>
+</p>
+
+
 ## 📚 Learning & Interested
 <code><img height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+<code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Java"/></code>
+<code><img height="35" src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png" alt="Java"/></code>
+
 
 <!--
 **busrakk/busrakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
