@@ -12,24 +12,27 @@
 
 ### 📌 GitHub Stats And Top Languages
 <p float="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=busrakk&show_icons=true&count_private=true&hide=contribs,issues" alt="busrakk's github stats" />
+[Github stats 1](https://github-readme-stats.vercel.app/api?username=busrakk&show_icons=true&theme=gradient)
+  <img src="https://github-readme-stats.vercel.app/api?username=busrakk&show_icons=true&theme=gradient" alt="busrakk's github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrakk&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
 
 
-### 📚 Learning & Interested
+### 📚 Languages and Tools
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Java"/></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png" alt="Java"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 
 
 <!--
