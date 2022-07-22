@@ -4,15 +4,13 @@
     I'm Büşra.
     I'm studying Computer Engineering.
   <ul>
-      <li>🔭 I’m currently working on Karabük Teknokent.
-      </li>
-      <li>🌱 I’m currently learning Django.</li>
-     </li>  
+      <li>🔭 I’m currently working on Karabük Teknokent.</li>
+      <li>🌱 I’m currently learning Django.</li></li>  
    </ul>
 </p>
 
 
-## 📌 GitHub Stats And Top Languages
+### 📌 GitHub Stats And Top Languages
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=busrakk&show_icons=true&count_private=true&hide=contribs,issues" alt="busrakk's github stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrakk&layout=compact&hide=html,css" alt="My Top Langs" />
@@ -20,7 +18,7 @@
 
 
 
-## 📚 Learning & Interested
+### 📚 Learning & Interested
 <code><img height="30" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
@@ -50,6 +48,6 @@ Here are some ideas to get you started:
 -->
 
 
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 [![Linkedin Badge](https://img.shields.io/badge/busrakk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/büşra-kartal-9987481b1/)
 
