@@ -12,7 +12,7 @@ I'm studying Computer Engineering.
 ---
 
 
-### 📚 Languages and Tools
+### 📚 Languages and Tools:
 <code><img  title="VsCode" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img  title="Django" height="26" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
 <code><img  title="Python" height="26" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
@@ -31,7 +31,7 @@ I'm studying Computer Engineering.
 ---
 
 
-### 📌 GitHub Stats And Top Languages
+### 📌 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=busrakk&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busrakk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
