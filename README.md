@@ -50,8 +50,9 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/büşra-kartal-9987481b1#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/büşra-kartal-9987481b1#gh-dark-mode-only)
 
 
 ### 📫 How to Reach Me
