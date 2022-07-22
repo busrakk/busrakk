@@ -15,7 +15,7 @@
 <code><img height="75" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 <code><img height="75" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
 <code><img height="75" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
-<code><img height="75" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 
 <!--
 **busrakk/busrakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
