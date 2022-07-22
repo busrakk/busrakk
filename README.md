@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <p align="left">
-    I'm Büşra.I'm studying Computer Engineering.
+    I'm Büşra.
+    I'm studying Computer Engineering.
   <ul>
       <li>🔭 I’m currently working on Karabük Teknokent
       </li>
