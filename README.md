@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 
 
 ## 📫 How to Reach Me
-[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%20b%C3%BC%C5%9Fra-kartal-9987481b1/)
+[![Linkedin Badge](https://img.shields.io/badge/busrakk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ büşra-kartal-9987481b1/)
 
