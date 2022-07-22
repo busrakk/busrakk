@@ -9,12 +9,7 @@ I'm studying Computer Engineering.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/busrakk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/büşra-kartal-9987481b1/)
 
 
-### 📌 GitHub Stats And Top Languages
-<p float="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=busrakk&show_icons=true&count_private=true&hide=contribs,issues" alt="busrakk's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrakk&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
-
+---
 
 
 ### 📚 Languages and Tools
@@ -31,6 +26,16 @@ I'm studying Computer Engineering.
 <code><img  title="C#" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Java"/></code>
 <code><img title="Java" height="26" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java"/></code>
 <code><img  title="Git" height="26" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
+
+
+---
+
+
+### 📌 GitHub Stats And Top Languages
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=busrakk&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busrakk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
