@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+## 📌 GitHub Stats And Top Languages
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=busrakk&show_icons=true&count_private=true&hide=contribs,issues" alt="busrakk's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrakk&layout=compact&hide=html,css" alt="My Top Langs" />
+</p>
+
 <!--
 **busrakk/busrakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
