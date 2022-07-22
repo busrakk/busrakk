@@ -9,11 +9,13 @@
 
 
 ## 📚 Learning & Interested
-<code><img height="75" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/887/887813.svg"></code>
-<code><img height="75" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
+<code><img height="75" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 
 <!--
 **busrakk/busrakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
