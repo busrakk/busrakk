@@ -11,6 +11,7 @@ I'm studying Computer Engineering.
 ### 📫 Connect with Me: &nbsp; 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/büşra-kartal-9987481b1/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:busrakartal160@gmail.com)
 
+<hr>
 
 ### 📚 Languages and Tools:
 <code><img  title="Python" height="26" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
@@ -27,6 +28,7 @@ I'm studying Computer Engineering.
 <code><img  title="VsCode" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img  title="Git" height="26" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
 
+<hr>
 
 ### 📌 My Stats:
 |Streaks|My languages|
