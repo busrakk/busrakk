@@ -37,6 +37,7 @@ I'm studying Computer Engineering.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busrakk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<p align=left> <img src=https://komarev.com/ghpvc/?username=busrakk alt=busrakk /> </p>
 
 <!--
 **busrakk/busrakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
