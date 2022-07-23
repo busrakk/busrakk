@@ -8,6 +8,8 @@ I'm studying Computer Engineering.
 - 🌱 I’m currently learning Django. 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/busrakartal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/büşra-kartal-9987481b1/)
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/büşra-kartal-9987481b1/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:busrakartal160@gmail.com)
+
 
 ---
 
