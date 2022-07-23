@@ -19,12 +19,10 @@ I'm studying Computer Engineering.
 <code><img  title="HTML" height="26" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img  title="CSS3" height="26" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 <code><img  title="Bootstrap" height="26" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
-<code><img  title="JavaScript" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img  title="SQLite" height="26" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
 <code><img  title="Linux" height="26" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img  title="C" height="26" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img  title="C#" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Java"/></code>
-<code><img title="Java" height="26" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java"/></code>
 <code><img  title="VsCode" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img  title="Git" height="26" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
 
