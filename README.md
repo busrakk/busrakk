@@ -2,7 +2,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I'm Büşra
+I'm Büşra.
 I'm studying Computer Engineering.
 - 🔭 I working as an intern in Karabük Teknokent.
 - 🌱 I’m currently learning Django. 
