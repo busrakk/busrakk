@@ -5,7 +5,7 @@
 I'm Büşra.
 I'm studying Computer Engineering.
 - 🔭 I working as an intern in Karabük Teknokent.
-- 🌱 I’m currently learning Django. 
+- 🌱 I’m currently learning React.JS
 
 
 ### 📫 Connect with Me: &nbsp; 
