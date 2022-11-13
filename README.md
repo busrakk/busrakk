@@ -4,7 +4,7 @@
 
 I'm Büşra.
 I'm studying Computer Engineering.
-- 🔭 I working as an intern in Karabük Teknokent.
+- 🔭 I working 
 - 🌱 I’m currently learning 
 
 
