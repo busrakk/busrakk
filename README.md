@@ -13,7 +13,7 @@ I'm studying Computer Engineering.
 
 <hr>
 
-### 📚 Languages and Tools:
+<!-- ### 📚 Languages and Tools:
 <code><img  title="Python" height="26" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img  title="Django" height="26" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
 <code><img  title="HTML" height="26" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
@@ -24,7 +24,7 @@ I'm studying Computer Engineering.
 <code><img  title="C" height="26" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
 <code><img  title="C#" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Java"/></code>
 <code><img  title="VsCode" height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<code><img  title="Git" height="26" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
+<code><img  title="Git" height="26" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code> -->
 
 <hr>
 
