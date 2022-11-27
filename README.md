@@ -22,19 +22,19 @@
 
 
 #### 📚 Languages and Tools:
-<code><img  title="Laravel" height="28" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"></code>
-<code><img  title="ReactJS" height="28" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-<code><img  title="TailwindCSS" height="28" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-<code><img  title="MySQL" height="28" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img  title="Postman" height="28" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img  title="HTML" height="28" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img  title="CSS3" height="28" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-<code><img  title="Javascript" height="28" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img  title="Bootstrap" height="28" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
-<code><img  title="Python" height="28" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img  title="Django" height="28" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
-<code><img  title="VsCode" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<code><img  title="Git" height="28" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
+<a><img  title="Laravel" height="40" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"></a>
+<a><img  title="ReactJS" height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
+<a><img  title="TailwindCSS" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></a>
+<a><img  title="MySQL" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
+<a><img  title="Postman" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
+<a><img  title="HTML" height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a>
+<a><img  title="CSS3" height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></a>
+<a><img  title="Javascript" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
+<a><img  title="Bootstrap" height="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></a>
+<a><img  title="Python" height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
+<a><img  title="Django" height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></a>
+<a><img  title="VsCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
+<a><img  title="Git" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></a>
 
 
 #### 📌 My Stats:
