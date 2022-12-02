@@ -3,18 +3,13 @@
 #### :woman_technologist: &nbsp;I'm studying Computer Engineering.
 <ul>
   <li>🔭 I’m currently working on interested in website development.</li>
-  <ul>
-    <li>
-      <img  title="Laravel" height="20" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg">
-      <a href="https://github.com/busrakk/LaravelAPI-Ecommerce">LaravelAPI-Ecommerce</a>
-    </li>
-    <li>
-      <img  title="ReactJS" height="20" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-      <a href="https://github.com/busrakk/React-Ecommerce">React-Ecommerce</a>
-    </li>
-  </ul>  
   <li>🌱 I’m currently learning Laravel & React Js.</li>
 </ul>
+
+#### ⚡ Repo Card:
+|LaravelAPI-Ecommerce|React-Ecommerce|
+|-|-|
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=busrakk&theme=dracula&repo=LaravelAPI-Ecommerce)](https://github.com/busrakk/LaravelAPI-Ecommerce)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=busrakk&theme=dracula&repo=React-Ecommerce)](https://github.com/busrakk/React-Ecommerce)
  
  
 #### 📫 Connect with Me: &nbsp; 
@@ -40,7 +35,7 @@
 #### 📌 My Stats:
 |Streaks|My languages|
 |-|-|
-|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=busrakk&theme=buefy)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busrakk&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=busrakk&theme=dracula)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busrakk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=busrakk alt=busrakk /> </p>
