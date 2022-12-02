@@ -3,13 +3,16 @@
 #### :woman_technologist: &nbsp;I'm studying Computer Engineering.
 <ul>
   <li>🔭 I’m currently working on interested in website development.</li>
+  <ul>
+    <li>
+      <a href="https://github.com/busrakk/LaravelAPI-Ecommerce">LaravelAPI-Ecommerce</a>
+    </li>
+    <li>
+      <a href="https://github.com/busrakk/React-Ecommerce">React-Ecommerce</a>
+    </li>
+  </ul> 
   <li>🌱 I’m currently learning Laravel & React Js.</li>
 </ul>
-
-#### ⚡ Repo Card:
-|LaravelAPI-Ecommerce|React-Ecommerce|
-|-|-|
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=busrakk&theme=dracula&repo=LaravelAPI-Ecommerce)](https://github.com/busrakk/LaravelAPI-Ecommerce)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=busrakk&theme=dracula&repo=React-Ecommerce)](https://github.com/busrakk/React-Ecommerce)
  
  
 #### 📫 Connect with Me: &nbsp; 
