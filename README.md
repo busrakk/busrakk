@@ -14,6 +14,7 @@
 #### 📚 Languages and Tools:
 <a><img  title="Laravel" height="32" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"></a>
 <a><img  title="ReactJS" height="32" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
+<a><img  title="Redux" height="32" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"></a>
 <a><img  title="TailwindCSS" height="32" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></a>
 <a><img  title="MySQL" height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
 <a><img  title="Postman" height="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
