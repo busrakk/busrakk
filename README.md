@@ -3,7 +3,10 @@
 #### :woman_technologist: &nbsp;I'm studying Computer Engineering.
 <ul>
   <li>🔭 I’m currently working on interested in website development.</li>
-  <li>🌱 I’m currently learning Laravel & React Js.</li>
+  <li>🌱 I’m currently learning <b>React.Js</b> & <b>Node.Js</b></li>
+  <li>👯I’m looking to collaborate on any open source projects related to <b>PHP</b>, <b>Laravel</b> and <b>React.Js</b>.</li>
+  <li>💬 Ask me about <b>PHP</b>, <b>Laravel</b> , <b>React.Js</b> </li>
+  <li>⚡Fun fact: I love learn new thing especially in technology</li>
 </ul>
  
  
