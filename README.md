@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Data Analyst, focusing on performance monitoring, KPI tracking, and business process improvement.<br>🤝 I’m looking to collaborate on data-driven projects related to manufacturing analytics, reporting automation, or process optimization.<br>🌱 I’m currently learning advanced data analysis techniques and improving my skills in SQL, Excel, and data visualization tools.<br>💬 Ask me about  MSSQL, Excel, KPIs, ERP data analysis, and turning raw data into meaningful insights.<br>⚡ Fun fact: I love exploring new technologies that make data analysis more efficient and impactful.
+🔭 I’m currently working as a Data Analyst, focusing on performance monitoring, KPI tracking, and business process improvement.<br>🌱 I’m currently learning advanced data analysis techniques and improving my skills in SQL, Excel, and data visualization tools.<br>💬 Ask me about  MSSQL, Excel, KPIs, ERP data analysis, and turning raw data into meaningful insights.<br>⚡ Fun fact: I love exploring new technologies that make data analysis more efficient and impactful.
 
 
 ## 🌐 Socials:
